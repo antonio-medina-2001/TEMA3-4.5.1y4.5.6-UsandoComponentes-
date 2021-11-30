@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import campotextonumerico.CampoTextoNumerico?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane id="AnchorPane" prefHeight="243.0" prefWidth="356.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/17" fx:controller="usandoCampoTextoNumerico.UsandoCampoTextoNumericoController">
+   <children>
+      <CampoTextoNumerico layoutX="104.0" layoutY="109.0" />
+   </children>
+</AnchorPane>
